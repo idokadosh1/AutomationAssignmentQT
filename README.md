@@ -1,2 +1,0 @@
-# AutomationAssignmentQT
-check1

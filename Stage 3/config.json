@@ -1,0 +1,8 @@
+{ "path_for_inputs_apitests":"C:\\Users\\idoka\\QTAss\\API_inputs.xlsx", 
+"url_for_search_pet_by_id" :"https://petstore.swagger.io/v2/pet/",
+"url_for_search_undefined_user":"https://petstore.swagger.io/v2/user/",
+"path_for_inputs_uitests" : "C:\\Users\\idoka\\input.xlsx",
+"STATUS_ERROR_CODE" : 404,
+"STATUS_SUCCEEDED_CODE" : 200
+
+}

@@ -1,6 +1,7 @@
 # AutomationAssignmentQT
 
-CHECK THIS!!!
-
-
-258
+STAGE 1 - UI & API Tests 
+STAGE 2 - Postman & Newman 
+STAGE 3 - Framework Improvment 
+STAGE 4 - Applitools and Docker
+STAGE 5 - Mobile Testing Using BrowserStack

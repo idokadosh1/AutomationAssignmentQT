@@ -11,4 +11,4 @@ STAGE 4 - Applitools & Docker
 STAGE 5 - Mobile Testing Using BrowserStack
 
 
-AAAAAA
+AA
